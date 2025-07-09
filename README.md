@@ -1,15 +1,16 @@
 ## Hello, Welcome to my Github Profile! 
 
-<p align="left">
-  <img 
-    src="https://github.com/user-attachments/assets/6e680074-358a-44f1-a251-14711074c3df" 
-    alt="Saad Avatar" 
-    width="32" 
-    height="32" 
-    style="vertical-align: middle;"
+<h1 align="left">
+  <img
+    src="https://github.com/user-attachments/assets/6e680074-358a-44f1-a251-14711074c3df"
+    alt="Saad Avatar"
+    width="32"
+    height="32"
+    style="vertical-align: middle; margin-right: 8px;"
   />
-  <strong> Hi there, I’m Saad 👋</strong>
-</p>
+  Hi there, I’m Saad 👋
+</h1>
+
 
 
 <!--

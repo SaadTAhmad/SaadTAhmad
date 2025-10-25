@@ -19,7 +19,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on the Azure Cloud Resume Challenge
-- 🌱 I’m currently Pursuing a Certification, CompTIA Security+
-- 🚀​ Ask me about **DevOps concepts** and tools such as **Terraform**. 
+- 🔭 I’m currently working on my Next project
+- 🌱 I’m currently Pursuing Certifications in - Azure - 104 Azure Administrator, Azure - 305 Azure Solutions Architect Professional, CompTIA Security+
+- 🚀​ Ask me about **Azure Infrastructure, Tools & Solutions** & **DevOps concepts**
 - 📫Reach me?: [LinkedIn](https://www.linkedin.com/in/saad-ahmad-9059b531b/)

@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Next project
 - 🌱 I’m currently Pursuing Certifications in - Azure: 305 Azure Solutions Architect Expert & CompTIA Security+
+- 📄 Microsoft Azure Certified Associate, HashiCorp Terraform Certified Associate.
 - 🚀​ Ask me about **Azure Infrastructure,** & **DevOps concepts**
 - 📫Reach me?: [LinkedIn](https://www.linkedin.com/in/saad-ahmad-9059b531b/)
